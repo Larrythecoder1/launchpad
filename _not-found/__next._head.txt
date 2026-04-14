@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[77278,["/_next/static/chunks/032_nj6gh6pf-.js","/_next/static/chunks/0gald0yno.e48.js"],"ViewportBoundary"]
+3:I[77278,["/_next/static/chunks/032_nj6gh6pf-.js","/_next/static/chunks/0gald0yno.e48.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[83249,["/_next/static/chunks/032_nj6gh6pf-.js","/_next/static/chunks/0gald0yno.e48.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"LaunchPad — Pay-for-Performance Marketing for Solo SaaS Founders"}],["$","meta","1",{"name":"description","content":"$$0 upfront. 15% of revenue for 12 months. Full-stack B2B growth team. For solo SaaS founders only."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-Vc6R3VLOGHzHxU38rlyv"}
